@@ -45,5 +45,4 @@ HC-SR04 → Distance Calculation → Plant Height Calculation → SMA Filter →
 ## Author
 
 Akhila JayakumariAnand
-M.Sc. Computer Science
-Industrial Internet of Things Project
+Industrial Inter Things Project
