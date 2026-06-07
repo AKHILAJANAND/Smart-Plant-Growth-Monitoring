@@ -43,6 +43,3 @@ HC-SR04 → Distance Calculation → Plant Height Calculation → SMA Filter →
   - Filtered Data: 0.20 cm
 
 ## Author
-
-Akhila JayakumariAnand
-Industrial Inter Things Project
